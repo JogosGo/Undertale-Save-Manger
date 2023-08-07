@@ -41,6 +41,17 @@ The "Load" function will replace your current UNDERTALE folder with the selected
 
 If you encounter any issues or have questions, feel free to [contact us](mailto:support@example.com) for assistance.
 
+
+## The bad name "Manger"
+
+The logical reason for naming the app "Manger" instead of "Mananger" could be that "Manger" is the correct spelling of the word and aligns with the intended meaning and functionality of the app.
+
+"Manger" is a legitimate English word, referring to a feeding trough for animals, especially for horses or cattle. The name "Manger" for the app could symbolize its role in organizing and managing game saves, much like a feeding trough organizes food for animals.
+
+On the other hand, "Mananger" is not a recognized word in the English language. Using the incorrect spelling might lead to confusion and misunderstandings about the app's purpose or functionality.
+
+By choosing the correct spelling "Manger," the app creators demonstrate attention to detail, professionalism, and a clear understanding of the app's purpose, which can positively impact the app's perception and user engagement.
+
 ## License
 
 This software is distributed under the [MIT License](LICENSE). Please see the LICENSE file for details.
